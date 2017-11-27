@@ -1,0 +1,3 @@
+package ru.ginger.wiring
+
+object ComponentWiring extends CommonComponentWiring with ServiceComponentWiring with ControllerWiring
